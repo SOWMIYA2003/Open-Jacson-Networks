@@ -18,10 +18,12 @@ Visual components and Python
 
 ## Experiment:
 
-
+![A1](https://github.com/SOWMIYA2003/Open-Jacson-Networks/assets/93427443/b62bc4a6-a220-4a3e-a688-338cce45fa31)
+![A2](https://github.com/SOWMIYA2003/Open-Jacson-Networks/assets/93427443/3a6ec823-83a5-4952-be75-edc3bcb87d2d)
 ## Program
 
 
 ## Output
 
 ## Result
+
